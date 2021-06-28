@@ -1,0 +1,1 @@
+__ALX pointer and array string ALX__
